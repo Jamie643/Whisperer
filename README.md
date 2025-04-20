@@ -61,4 +61,18 @@ Google Colab
 🙋 Author
 Spkymnk
 📍 GitHub: Spkymnk
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+If you want, I can help you:
+
+1. Generate a custom logo/banner (just describe the style).
+2. Add installation instructions for local environments.
+3. Include links to sample audio files or demo notebooks.
+
+Let me know!
+
 🧠 Project: WHISPERER
